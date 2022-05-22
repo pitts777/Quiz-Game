@@ -24,7 +24,7 @@ if answer.lower() == "graphics processing unit":
 else:
         print("Incorrect!")
 
-answer = input("What does RAm stand for? ")
+answer = input("What does RAM stand for? ")
 if answer.lower() == "random access memory":
     print('Correct!')
     score += 1
